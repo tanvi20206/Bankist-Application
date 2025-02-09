@@ -11,3 +11,6 @@
 
 💸Contributing <br>
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
+
+<br>
+for logging , use tanvi pass= 1
